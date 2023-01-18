@@ -2,7 +2,7 @@
   "name": "employee-tracker",
   "description": "",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
