@@ -45,3 +45,13 @@ npm start
 ```
 
 Watch this short video demonstration [here]
+
+## Badges
+
+![license](https://img.shields.io/badge/license-MIT-yellow.svg)
+
+![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+
+![badmath](https://img.shields.io/github/repo-size/ajsherrill2/README-Generator)
+
+## Features
