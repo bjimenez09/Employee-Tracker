@@ -1,5 +1,5 @@
 // Imports
-const db = require("./connection");
+const db = require("../config/connection");
 const inquirer = require("inquirer");
 
 // Helper Functions
