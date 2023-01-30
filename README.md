@@ -54,4 +54,3 @@ Watch this short video demonstration [here]
 
 ![badmath](https://img.shields.io/github/repo-size/ajsherrill2/README-Generator)
 
-## Features
