@@ -32,7 +32,7 @@ npm i dotenv
 npm i console.table
 ```
 
-Please Run "SOURCE db/schema.sql;" atleast once in your MySQL terminal atleast once.
+Run "SOURCE db/schema.sql;" in your MySQL terminal.
 
 Please change ".env.EXAMPLE" to ".env" and provide personal DB_PASSWORD.
 
